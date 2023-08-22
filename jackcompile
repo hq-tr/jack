@@ -1,0 +1,1 @@
+gfortran jacks.f90 jacks_module.f90 -o jack
